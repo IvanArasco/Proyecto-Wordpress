@@ -1,0 +1,10 @@
+.DS_Store
+/composer.lock
+/phpcs.xml
+node_modules/
+vendor/
+
+# Artifacts
+process.yml
+*.zip
+*.*.json

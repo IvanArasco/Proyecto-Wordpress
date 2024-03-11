@@ -1,0 +1,1425 @@
+# Translation of Plugins - Genesis Blocks - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Genesis Blocks - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-02-27 07:34:31+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-beta.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Genesis Blocks - Stable (latest release)\n"
+
+#: src/blocks/block-newsletter/index.php:288
+msgid "View Documentation"
+msgstr "Ver la documentación"
+
+#: src/blocks/block-newsletter/index.php:282
+#: src/blocks/block-newsletter/index.php:288
+msgid "Newsletter Block Settings"
+msgstr "Ajustes de los bloque de boletines"
+
+#: lib/Settings/views/admin/tabs/genesis-pro.php:65
+msgid "Get started with Genesis Pro"
+msgstr "Comienza con Genesis Pro"
+
+#: lib/Settings/views/admin/tabs/genesis-pro.php:48
+msgid "Premium Block Library"
+msgstr "Biblioteca de bloques premium"
+
+#: lib/Settings/views/admin/tabs/genesis-pro.php:34
+msgid "24/7 Customer Support"
+msgstr "Soporte a clientes 24/7"
+
+#: lib/Settings/views/admin/tabs/genesis-pro.php:33
+msgid "Extra Genesis Blocks"
+msgstr "Bloques de Genesis extras"
+
+#: lib/Settings/views/admin/tabs/genesis-pro.php:32
+msgid "Access to all design Collections"
+msgstr "Acceso a todas las colecciones de diseño"
+
+#: lib/Settings/views/admin/tabs/genesis-pro.php:25
+msgid "Learn More"
+msgstr "Aprender más"
+
+#: lib/Settings/views/admin/tabs/genesis-collections.php:57
+#: lib/Settings/views/admin/tabs/genesis-collections.php:68
+#: lib/Settings/views/admin/tabs/genesis-collections.php:79
+#: lib/Settings/views/admin/tabs/genesis-collections.php:90
+#: lib/Settings/views/admin/tabs/genesis-collections.php:101
+#: lib/Settings/views/admin/tabs/genesis-collections.php:112
+msgid "View Demo"
+msgstr "Ver demo"
+
+#: lib/Settings/views/admin/tabs/genesis-101.php:267
+msgid "Reusable blocks"
+msgstr "Bloques reutilizables"
+
+#: lib/Settings/views/admin/tabs/genesis-101.php:256
+msgid "Block Permissions"
+msgstr "Permisos de bloques"
+
+#: lib/Settings/views/admin/tabs/genesis-101.php:234
+msgid "Sharing block"
+msgstr "Bloque de compartir"
+
+#: lib/Settings/views/admin/tabs/genesis-101.php:212
+msgid "Pricing block"
+msgstr "Bloque de precios"
+
+#: lib/Settings/views/admin/tabs/genesis-101.php:168
+#: lib/Settings/views/admin/tabs/genesis-101.php:190
+#: lib/Settings/views/admin/tabs/genesis-101.php:256
+#: lib/Settings/views/admin/tabs/genesis-collections.php:66
+#: lib/Settings/views/admin/tabs/genesis-collections.php:77
+#: lib/Settings/views/admin/tabs/genesis-collections.php:88
+#: lib/Settings/views/admin/tabs/genesis-collections.php:99
+#: lib/Settings/views/admin/tabs/genesis-collections.php:110
+msgid "Pro"
+msgstr "Pro"
+
+#: lib/Settings/views/admin/tabs/genesis-101.php:168
+#: lib/Settings/views/admin/tabs/genesis-101.php:190
+#: lib/Settings/views/admin/tabs/genesis-101.php:256
+#: lib/Settings/views/admin/tabs/genesis-collections.php:66
+#: lib/Settings/views/admin/tabs/genesis-collections.php:77
+#: lib/Settings/views/admin/tabs/genesis-collections.php:88
+#: lib/Settings/views/admin/tabs/genesis-collections.php:99
+#: lib/Settings/views/admin/tabs/genesis-collections.php:110
+msgid "Included in Genesis Pro"
+msgstr "Incluído en Genesis Pro"
+
+#: lib/Settings/views/admin/tabs/genesis-101.php:135
+msgid "Call to Action block"
+msgstr "Bloque de llamada a la acción"
+
+#: lib/Settings/views/admin/tabs/genesis-101.php:124
+msgid "Button block"
+msgstr "Bloque de botón"
+
+#: lib/Settings/views/admin/tabs/genesis-101.php:113
+msgid "Spacer block"
+msgstr "Bloque de espaciador"
+
+#: lib/Settings/views/admin/tabs/genesis-101.php:80
+msgid "Container block"
+msgstr "Bloque de contenedor"
+
+#: lib/Settings/views/admin/tabs/genesis-101.php:51
+#: lib/Settings/views/admin/tabs/genesis-101.php:62
+#: lib/Settings/views/admin/tabs/genesis-101.php:73
+#: lib/Settings/views/admin/tabs/genesis-101.php:84
+#: lib/Settings/views/admin/tabs/genesis-101.php:95
+#: lib/Settings/views/admin/tabs/genesis-101.php:106
+#: lib/Settings/views/admin/tabs/genesis-101.php:117
+#: lib/Settings/views/admin/tabs/genesis-101.php:128
+#: lib/Settings/views/admin/tabs/genesis-101.php:139
+#: lib/Settings/views/admin/tabs/genesis-101.php:150
+#: lib/Settings/views/admin/tabs/genesis-101.php:161
+#: lib/Settings/views/admin/tabs/genesis-101.php:172
+#: lib/Settings/views/admin/tabs/genesis-101.php:183
+#: lib/Settings/views/admin/tabs/genesis-101.php:194
+#: lib/Settings/views/admin/tabs/genesis-101.php:205
+#: lib/Settings/views/admin/tabs/genesis-101.php:216
+#: lib/Settings/views/admin/tabs/genesis-101.php:227
+#: lib/Settings/views/admin/tabs/genesis-101.php:238
+#: lib/Settings/views/admin/tabs/genesis-101.php:249
+#: lib/Settings/views/admin/tabs/genesis-101.php:260
+#: lib/Settings/views/admin/tabs/genesis-101.php:271
+msgid "View docs"
+msgstr "Ver la documentación"
+
+#: lib/Settings/views/admin/getting-started.php:69
+#: lib/Settings/views/admin/tabs/genesis-101.php:19
+msgid "Genesis 101"
+msgstr "Genesis 101"
+
+#: lib/Settings/views/admin/getting-started.php:60
+msgid "About Genesis"
+msgstr "Sobre Genesis"
+
+#: lib/Settings/views/admin/tabs/genesis-101.php:47
+msgid "Working with blocks"
+msgstr "Trabajar con bloques"
+
+#: lib/Settings/views/admin/tabs/genesis-pro.php:24
+msgid "Get Genesis Pro"
+msgstr "Obtener Genesis Pro"
+
+#: lib/Settings/views/admin/tabs/genesis-collections.php:28
+msgid "How to access collections:"
+msgstr "Cómo acceder a las colecciones"
+
+#: lib/Settings/views/admin/tabs/genesis-collections.php:24
+msgid "View Collections Documentation"
+msgstr "Ver documentación de colecciones"
+
+#: lib/Settings/views/admin/tabs/genesis-collections.php:48
+msgid "Current Collections"
+msgstr "Colecciones actuales"
+
+#: lib/Settings/views/admin/tabs/genesis-101.php:245
+msgid "Testimonial block"
+msgstr "Bloque de testimonios"
+
+#: lib/Settings/views/admin/tabs/genesis-101.php:190
+msgid "Portfolio block"
+msgstr "Bloque de porfolio"
+
+#: lib/Settings/views/admin/tabs/genesis-101.php:157
+msgid "Accordion block"
+msgstr "Bloque de acordeón"
+
+#: lib/Settings/views/admin/tabs/genesis-101.php:201
+msgid "Post and Page Grid block"
+msgstr "Bloque de cuadrícula de entradas y páginas"
+
+#: lib/Settings/views/admin/tabs/genesis-101.php:179
+msgid "Notice block"
+msgstr "Bloque de avisos"
+
+#: lib/Settings/views/admin/tabs/genesis-101.php:183
+msgid "View Notice block documentation (opens in a new tab)"
+msgstr "Ver la documentación de bloque de avisos (se abre en una pestaña nueva)"
+
+#: lib/Settings/views/admin/tabs/genesis-101.php:41
+msgid "Block Documentation"
+msgstr "Documentación de bloques"
+
+#: lib/Settings/views/admin/getting-started.php:104
+msgid "Tab icon"
+msgstr "Icono de pestaña"
+
+#: lib/Settings/AdminPage.php:66
+msgid "Genesis"
+msgstr "Genesis"
+
+#: lib/Settings/views/admin/tabs/genesis-101.php:69
+msgid "Advanced Columns block"
+msgstr "Bloque de columnas avanzado"
+
+#: lib/Settings/views/admin/tabs/genesis-101.php:20
+msgid "View Genesis documentation"
+msgstr "Ver documentación de Genesis"
+
+#: src/blocks/block-newsletter/index.php:288
+msgid "Setup the email newsletter block with Mailchimp."
+msgstr "Configura el bloque del boletín de correo electrónico con Mailchimp."
+
+#: lib/Settings/views/admin/tabs/genesis-pro.php:31
+msgid "Advanced features for Genesis Blocks"
+msgstr "Funciones avanzadas de los Genesis Blocks"
+
+#: lib/Settings/views/admin/tabs/genesis-pro.php:29
+msgid "Genesis Pro at a glance"
+msgstr "Genesis Pro de un vistazo"
+
+#: lib/Settings/views/admin/tabs/genesis-pro.php:25
+msgid "Learn more about Genesis Pro (opens in a new tab)"
+msgstr "Más información sobre Genesis Pro (se abre en una pestaña nueva)"
+
+#: lib/Settings/views/admin/tabs/genesis-pro.php:22
+msgid "Genesis Pro provides advanced tools for building better WordPress websites faster! Unlock new features and tools across the Genesis platform including additional blocks and collections, advanced block features, and access to the industry’s most beloved customer support team when you need it."
+msgstr "Genesis Pro proporciona herramientas avanzadas para crear mejores sitios web WordPress con mayor rapidez. Desbloquea nuevas funciones y herramientas en toda la plataforma Genesis, incluidos bloques y colecciones adicionales, funciones avanzadas de bloques y acceso al equipo de atención al cliente más querido del sector cuando lo necesites."
+
+#: lib/Settings/views/admin/tabs/genesis-101.php:216
+msgid "View Pricing block documentation (opens in a new tab)"
+msgstr "Ver la documentación del bloque Precios (se abre en una pestaña nueva)"
+
+#: lib/Settings/views/admin/tabs/genesis-101.php:213
+msgid "The Pricing block allows you to build beautiful, dynamic, responsive pricing tables with settings to change columns, colors, padding, and position."
+msgstr "El bloque Precios te permite crear bonitas tablas de precios dinámicas y adaptables con opciones para cambiar las columnas, los colores, el relleno y la posición."
+
+#: lib/Settings/views/admin/tabs/genesis-pro.php:49
+msgid "Genesis Pro comes with additional blocks for advanced site building including the Device Mockup and Portfolio blocks."
+msgstr "Génesis Pro incluye bloques adicionales para la construcción avanzada de sitios, como los bloques Maqueta de dispositivo y Portafolio."
+
+#: lib/Settings/views/admin/tabs/genesis-collections.php:101
+msgid "View Monochrome Demo (opens in a new tab)"
+msgstr "Ver la demos de Monocromo (se abre en una pestaña nueva)"
+
+#: lib/Settings/views/admin/tabs/genesis-collections.php:112
+msgid "View Tangerine Demo (opens in a new tab)"
+msgstr "Ver la demo de Mandarina (se abre en una pestaña nueva)"
+
+#: lib/Settings/views/admin/tabs/genesis-collections.php:90
+msgid "View Infinity Demo (opens in a new tab)"
+msgstr "Ver demo de Infinito (se abre en una pestaña nueva)"
+
+#: lib/Settings/views/admin/tabs/genesis-collections.php:79
+msgid "View Altitude Demo (opens in a new tab)"
+msgstr "Ver demos de Altitud (se abre en una pestaña nueva)"
+
+#: lib/Settings/views/admin/tabs/genesis-collections.php:68
+msgid "View Agency Demo (opens in a new tab)"
+msgstr "Ver demo de Agencia (se abre en una pestaña nueva)"
+
+#: lib/Settings/views/admin/tabs/genesis-collections.php:57
+msgid "View Slate Demo (opens in a new tab)"
+msgstr "Ver demos de Pizarra (se abre en una pestaña nueva)"
+
+#: lib/Settings/views/admin/tabs/genesis-101.php:20
+msgid "View Genesis documentation (opens in a new tab)"
+msgstr "Ver la documentación de Genesis (se abre en una pestaña nueva)"
+
+#: lib/Settings/views/admin/tabs/genesis-101.php:91
+msgid "Layouts block"
+msgstr "Bloque Diseños"
+
+#: lib/Settings/views/admin/tabs/genesis-101.php:102
+msgid "Drop Cap block"
+msgstr "Bloque Capitular"
+
+#: lib/Settings/views/admin/tabs/genesis-101.php:106
+msgid "View Drop Cap block documentation (opens in a new tab)"
+msgstr "Ver la documentación del bloque Capitular (se abre en una pestaña nueva)"
+
+#: lib/Settings/views/admin/tabs/genesis-101.php:103
+msgid "The Drop Cap block allows you to add a stylized letter to the first word of a paragraph. After adding a paragraph to the post or page, you can configure the drop cap settings."
+msgstr "El bloque Capitular te permite añadir una letra estilizada a la primera palabra de un párrafo. Tras añadir un párrafo a la entrada o página, puedes configurar los ajustes de la letra capital."
+
+#: lib/Settings/views/admin/tabs/genesis-101.php:260
+msgid "View Block Permissions documentation (opens in a new tab)"
+msgstr "Ver la documentación sobre permisos de bloques (se abre en una pestaña nueva)"
+
+#: lib/Settings/views/admin/tabs/genesis-collections.php:24
+msgid "View Collections Documentation (opens in a new tab)"
+msgstr "Ver la documentación de las colecciones (se abre en una pestaña nueva)"
+
+#: lib/Settings/views/admin/tabs/genesis-101.php:249
+msgid "View Testimonial block documentation (opens in a new tab)"
+msgstr "Ver la documentación del bloque Testimonio (se abre en una pestaña nueva)"
+
+#: lib/Settings/views/admin/tabs/genesis-101.php:172
+msgid "View Device Mockup block documentation (opens in a new tab)"
+msgstr "Ver la documentación del bloque Maqueta de dispositivos (se abre en una pestaña nueva)"
+
+#: lib/Settings/views/admin/tabs/genesis-101.php:169
+msgid "The Device Mockup block allows you to quickly and easily showcase how your designs look on a smartphone or tablet."
+msgstr "El bloque Maqueta de dispositivo te permite mostrar rápida y fácilmente cómo se ven tus diseños en un smartphone o una tableta."
+
+#: lib/Settings/views/admin/tabs/genesis-101.php:168
+msgid "Device Mockup block"
+msgstr "Bloque Maqueta de dispositivo"
+
+#: lib/Settings/views/admin/tabs/genesis-101.php:238
+msgid "View Sharing block documentation (opens in a new tab)"
+msgstr "Ver la documentación del bloque Compartir (se abre en una pestaña nueva)"
+
+#: lib/Settings/views/admin/tabs/genesis-101.php:235
+msgid "The Sharing block makes it easy to add social media sharing icons anywhere on your post or page that allow readers to share your content on their social media profiles."
+msgstr "El bloque Compartir facilita la adición de iconos para compartir en redes sociales en cualquier lugar de tu publicación o página, que permiten a los lectores compartir tu contenido en sus perfiles de redes sociales."
+
+#: lib/Settings/views/admin/tabs/genesis-101.php:227
+msgid "View Profile Box block documentation (opens in a new tab)"
+msgstr "Ver la documentación del bloque Caja de perfil (se abre en una pestaña nueva)"
+
+#: lib/Settings/views/admin/tabs/genesis-101.php:223
+msgid "Profile Box block"
+msgstr "Bloque Caja de perfil"
+
+#: lib/Settings/views/admin/tabs/genesis-101.php:224
+msgid "The Profile Box block allows you to easily add a user profile box to any location on a post or page."
+msgstr "El bloque Cuadro de perfil te permite añadir fácilmente un cuadro de perfil de usuario en cualquier lugar de una entrada o página."
+
+#: lib/Settings/views/admin/tabs/genesis-101.php:146
+msgid "Email Newsletter block"
+msgstr "Bloque de boletines por correo electrónico"
+
+#: lib/Settings/views/admin/tabs/genesis-101.php:58
+#: src/blocks/responsive-settings/components/with-responsive-settings.js:232
+msgid "Responsive Typography"
+msgstr "Tipografía adaptable"
+
+#: src/blocks/block-author-profile/deprecated/1.8.2/filter.php:115
+#: src/blocks/block-author-profile/components/social.js:430
+#: src/blocks/block-author-profile/deprecated/2.0.0/components/social.js:430
+msgid "Visit WordPress account (opens in a new tab)"
+msgstr "Visitar la cuenta de WordPress (se abre en una pestaña nueva)"
+
+#: src/blocks/block-author-profile/deprecated/1.8.2/filter.php:109
+msgid "Visit Linkedin account (opens in a new tab)"
+msgstr "Visitar la cuenta de LinkedIn (se abre en una pestaña nueva)"
+
+#: src/blocks/block-author-profile/deprecated/1.8.2/filter.php:103
+msgid "Visit Github account (opens in a new tab)"
+msgstr "Visitar la cuenta de GitHub (se abre en una pestaña nueva)"
+
+#: src/blocks/block-author-profile/deprecated/1.8.2/filter.php:97
+#: src/blocks/block-author-profile/components/social.js:299
+#: src/blocks/block-author-profile/deprecated/2.0.0/components/social.js:299
+msgid "Visit YouTube account (opens in a new tab)"
+msgstr "Visitar la cuenta de YouTube (se abre en una pestaña nueva)"
+
+#: src/blocks/block-author-profile/deprecated/1.8.2/filter.php:91
+#: src/blocks/block-author-profile/components/social.js:258
+#: src/blocks/block-author-profile/deprecated/2.0.0/components/social.js:258
+msgid "Visit Google account (opens in a new tab)"
+msgstr "Visitar la cuenta de Google (se abre en una pestaña nueva)"
+
+#: src/blocks/block-author-profile/deprecated/1.8.2/filter.php:85
+#: src/blocks/block-author-profile/components/social.js:217
+#: src/blocks/block-author-profile/deprecated/2.0.0/components/social.js:217
+#: src/blocks/block-sharing/components/edit.js:143
+msgid "Visit Pinterest account (opens in a new tab)"
+msgstr "Visitar la cuenta de Pinterest (se abre en una pestaña nueva)"
+
+#: src/blocks/block-author-profile/deprecated/1.8.2/filter.php:79
+#: src/blocks/block-author-profile/components/social.js:172
+#: src/blocks/block-author-profile/deprecated/2.0.0/components/social.js:172
+msgid "Visit Instagram account (opens in a new tab)"
+msgstr "Visitar la cuenta de Instagram (se abre en una pestaña nueva)"
+
+#: src/blocks/block-author-profile/deprecated/1.8.2/filter.php:73
+#: src/blocks/block-author-profile/components/social.js:127
+#: src/blocks/block-author-profile/deprecated/2.0.0/components/social.js:127
+#: src/blocks/block-sharing/components/edit.js:105
+msgid "Visit Facebook account (opens in a new tab)"
+msgstr "Visitar la cuenta de Facebook (se abre en una pestaña nueva)"
+
+#: src/blocks/block-author-profile/deprecated/1.8.2/filter.php:67
+#: src/blocks/block-author-profile/components/social.js:82
+#: src/blocks/block-author-profile/deprecated/2.0.0/components/social.js:82
+#: src/blocks/block-sharing/components/edit.js:67
+msgid "Visit Twitter account (opens in a new tab)"
+msgstr "Visitar la cuenta de Twitter (se abre en una pestaña nueva)"
+
+#: src/blocks/block-author-profile/deprecated/1.8.2/filter.php:61
+#: src/blocks/block-author-profile/components/social.js:41
+#: src/blocks/block-author-profile/deprecated/2.0.0/components/social.js:41
+msgid "Visit Website (opens in a new tab)"
+msgstr "Visitar la web (se abre en una pestaña nueva)"
+
+#: lib/Settings/views/admin/app.php:24
+msgid "Leave a review!"
+msgstr "¡Deja una reseña!"
+
+#: includes/patterns/gb_slate_section_blog_posts.php:24
+#: includes/patterns/gb_slate_section_blog_posts.php:29
+msgid "posts"
+msgstr "entradas"
+
+#: includes/patterns/gb_slate_section_blog_posts.php:23
+#: includes/patterns/gb_slate_section_blog_posts.php:28
+msgid "blog"
+msgstr "blog"
+
+#: includes/patterns/gb_slate_section_contact_columns.php:87
+#: includes/patterns/gb_slate_section_contact_columns.php:94
+#: includes/patterns/gb_slate_section_feature_text_columns.php:72
+#: includes/patterns/gb_slate_section_feature_text_columns.php:78
+msgid "agency"
+msgstr "agencia"
+
+#: includes/patterns/gb_slate_section_testimonial_image.php:44
+msgid "avatar"
+msgstr "avatar"
+
+#: lib/Migration/Admin.php:127
+msgid "Genesis Blocks Pro Migration Tool"
+msgstr "Herramienta de migración Génesis Blocks Pro"
+
+#: lib/Migration/AdminNotice.php:108
+msgid "Genesis Blocks Pro: We need to migrate your blocks to give you the latest features!"
+msgstr "Genesis Blocks Pro: ¡Necesitamos migrar tus bloques para poder mostrarte las últimas funcionalidades!"
+
+#: lib/Migration/Api.php:90
+msgid "Pro settings migration failed"
+msgstr "Error en la migración de la configuración pro"
+
+#: includes/patterns/gb_slate_section_accordion_and_text.php:81
+msgid "Slate Accordion and Text"
+msgstr "Acordeón y texto de Slate"
+
+#: includes/patterns/gb_slate_section_blog_posts.php:21
+msgid "Slate Blog Posts"
+msgstr "Entradas de blog de Slate"
+
+#: includes/patterns/gb_slate_section_call_to_action_accent.php:17
+msgid "Slate Call To Action Accent"
+msgstr "Resaltado de la llamada a la acción de Slate"
+
+#: includes/patterns/gb_slate_layout_contact.php:17
+msgid "Slate Contact"
+msgstr "Contacto de Slate"
+
+#: includes/patterns/gb_slate_section_contact_box.php:85
+msgid "Slate Contact Box"
+msgstr "Caja de Contacto de Slate"
+
+#: includes/patterns/gb_slate_section_contact_columns.php:81
+msgid "Slate Contact Columns"
+msgstr "Columnas de contacto de Slate"
+
+#: includes/patterns/gb_slate_section_feature_text_columns.php:67
+msgid "Slate Feature Text Columns"
+msgstr "Columnas de texto de características de Slate"
+
+#: includes/patterns/gb_slate_section_hero_title.php:37
+msgid "Slate Hero Title"
+msgstr "Título del Hero de Slate"
+
+#: includes/patterns/gb_slate_layout_homepage_alternative.php:24
+msgid "Slate Homepage Alternative"
+msgstr "Página de inicio alternativa de Slate"
+
+#: includes/patterns/gb_slate_layout_about.php:13
+#: includes/patterns/gb_slate_layout_contact.php:13
+#: includes/patterns/gb_slate_layout_features_and_services.php:13
+#: includes/patterns/gb_slate_layout_homepage.php:13
+#: includes/patterns/gb_slate_layout_homepage_alternative.php:13
+#: includes/patterns/gb_slate_section_accordion_and_text.php:13
+#: includes/patterns/gb_slate_section_blog_posts.php:13
+#: includes/patterns/gb_slate_section_call_to_action_accent.php:13
+#: includes/patterns/gb_slate_section_contact_box.php:13
+#: includes/patterns/gb_slate_section_contact_columns.php:13
+#: includes/patterns/gb_slate_section_content_boxes.php:13
+#: includes/patterns/gb_slate_section_features.php:13
+#: includes/patterns/gb_slate_section_feature_image_and_text_columns.php:13
+#: includes/patterns/gb_slate_section_feature_text_columns.php:13
+#: includes/patterns/gb_slate_section_hero_title.php:13
+#: includes/patterns/gb_slate_section_hero_with_buttons.php:13
+#: includes/patterns/gb_slate_section_image_and_text_columns.php:13
+#: includes/patterns/gb_slate_section_image_and_text_cta.php:13
+#: includes/patterns/gb_slate_section_media_and_text.php:13
+#: includes/patterns/gb_slate_section_numbered_list_and_image.php:13
+#: includes/patterns/gb_slate_section_team_members.php:13
+#: includes/patterns/gb_slate_section_testimonials.php:13
+#: includes/patterns/gb_slate_section_testimonial_image.php:13
+#: includes/patterns/gb_slate_section_text_with_cta.php:13
+msgid "Slate"
+msgstr "Slate"
+
+#: includes/patterns/gb_slate_section_image_and_text_columns.php:63
+msgid "Slate Image and Text Columns"
+msgstr "Columnas de imagen y texto de Slate"
+
+#: includes/patterns/gb_slate_section_numbered_list_and_image.php:41
+msgid "Slate Numbered List and Image"
+msgstr "Lista numerada de pizarra e imagen"
+
+#: includes/patterns/gb_slate_section_team_members.php:49
+msgid "Slate Team Members"
+msgstr "Miembros de equipo de Slate"
+
+#: includes/patterns/gb_slate_section_content_boxes.php:62
+msgid "boxes"
+msgstr "buzones"
+
+#: includes/patterns/gb_slate_section_features.php:89
+#: includes/patterns/gb_slate_section_image_and_text_columns.php:76
+#: includes/patterns/gb_slate_section_image_and_text_cta.php:56
+#: includes/patterns/gb_slate_section_numbered_list_and_image.php:56
+msgid "columns"
+msgstr "columnas"
+
+#: includes/patterns/gb_slate_section_content_boxes.php:61
+msgid "content"
+msgstr "contenido"
+
+#: includes/patterns/gb_slate_layout_homepage.php:33
+#: includes/patterns/gb_slate_layout_homepage_alternative.php:32
+msgid "home"
+msgstr "inicio"
+
+#: includes/patterns/gb_slate_layout_homepage.php:32
+#: includes/patterns/gb_slate_layout_homepage_alternative.php:31
+msgid "homepage"
+msgstr "página de inicio"
+
+#: includes/patterns/gb_slate_section_feature_image_and_text_columns.php:77
+#: includes/patterns/gb_slate_section_image_and_text_columns.php:77
+#: includes/patterns/gb_slate_section_numbered_list_and_image.php:53
+msgid "image"
+msgstr "imagen"
+
+#: includes/patterns/gb_slate_section_contact_box.php:95
+msgid "links"
+msgstr "enlaces"
+
+#: includes/patterns/gb_slate_layout_about.php:30
+#: includes/patterns/gb_slate_layout_contact.php:26
+#: includes/patterns/gb_slate_layout_features_and_services.php:35
+#: includes/patterns/gb_slate_layout_homepage.php:35
+#: includes/patterns/gb_slate_layout_homepage_alternative.php:35
+#: includes/patterns/gb_slate_section_accordion_and_text.php:93
+#: includes/patterns/gb_slate_section_blog_posts.php:27
+#: includes/patterns/gb_slate_section_call_to_action_accent.php:32
+#: includes/patterns/gb_slate_section_contact_box.php:97
+#: includes/patterns/gb_slate_section_contact_columns.php:96
+#: includes/patterns/gb_slate_section_content_boxes.php:54
+#: includes/patterns/gb_slate_section_content_boxes.php:63
+#: includes/patterns/gb_slate_section_features.php:87
+#: includes/patterns/gb_slate_section_feature_image_and_text_columns.php:78
+#: includes/patterns/gb_slate_section_feature_text_columns.php:79
+#: includes/patterns/gb_slate_section_hero_title.php:49
+#: includes/patterns/gb_slate_section_hero_with_buttons.php:59
+#: includes/patterns/gb_slate_section_image_and_text_columns.php:74
+#: includes/patterns/gb_slate_section_image_and_text_cta.php:57
+#: includes/patterns/gb_slate_section_media_and_text.php:46
+#: includes/patterns/gb_slate_section_numbered_list_and_image.php:54
+#: includes/patterns/gb_slate_section_team_members.php:60
+#: includes/patterns/gb_slate_section_testimonials.php:59
+#: includes/patterns/gb_slate_section_testimonial_image.php:45
+#: includes/patterns/gb_slate_section_text_with_cta.php:44
+msgid "slate"
+msgstr "slate"
+
+#: includes/patterns/gb_slate_section_blog_posts.php:30
+msgid "slate blog posts"
+msgstr "entradas de blog de slate"
+
+#: includes/patterns/gb_slate_section_call_to_action_accent.php:33
+msgid "slate call to action columns"
+msgstr "columnas de la llamada a la acción de Slate"
+
+#: includes/patterns/gb_slate_layout_contact.php:27
+msgid "slate contact"
+msgstr "contacto de Slate"
+
+#: includes/patterns/gb_slate_section_contact_box.php:98
+msgid "slate contact box"
+msgstr "caja de contacto de slate"
+
+#: includes/patterns/gb_slate_section_contact_columns.php:97
+msgid "slate contact columns"
+msgstr "columnas de contacto de slate"
+
+#: includes/patterns/gb_slate_section_feature_text_columns.php:80
+msgid "slate feature text columns"
+msgstr "columnas de texto de la función de pizarra"
+
+#: includes/patterns/gb_slate_section_hero_title.php:50
+msgid "slate hero title"
+msgstr "título de Hero del Slate"
+
+#: includes/patterns/gb_slate_section_image_and_text_columns.php:78
+msgid "slate image and text columns"
+msgstr "columnas de imagen y texto de Slate"
+
+#: includes/patterns/gb_slate_section_image_and_text_cta.php:58
+msgid "slate image and text cta"
+msgstr "imagen y texto del cta de Slate"
+
+#: includes/patterns/gb_slate_section_team_members.php:61
+msgid "slate team members"
+msgstr "miembros del equipo de Slate"
+
+#: includes/patterns/gb_slate_layout_contact.php:25
+#: includes/patterns/gb_slate_section_accordion_and_text.php:92
+msgid "toggle"
+msgstr "alternar"
+
+#: includes/patterns/gb_slate_section_image_and_text_cta.php:43
+msgid "Slate Image and Text CTA"
+msgstr "Imagen y texto del CTA de Slate"
+
+#: includes/patterns/gb_slate_section_content_boxes.php:64
+msgid "slate content boxes"
+msgstr "cajas de contenido de slate"
+
+#: includes/patterns/gb_slate_section_testimonials.php:49
+msgid "Slate Testimonials"
+msgstr "Recomendaciones de Slate"
+
+#: includes/patterns/gb_slate_section_content_boxes.php:49
+msgid "Slate Content Boxes"
+msgstr "Cajas de contenido de Slate"
+
+#: includes/patterns/gb_slate_section_testimonials.php:60
+msgid "slate testimonials"
+msgstr "recomendaciones de slate"
+
+#: includes/patterns/gb_slate_layout_homepage.php:25
+msgid "Slate Homepage"
+msgstr "Página de inicio de Slate"
+
+#: includes/patterns/gb_slate_section_feature_image_and_text_columns.php:79
+msgid "slate feature image and text columns"
+msgstr "características de imagen y columnas de texto de slate"
+
+#: includes/patterns/gb_slate_section_feature_image_and_text_columns.php:65
+msgid "Slate Feature Image and Text Columns"
+msgstr "Características de imagen y columnas de texto de Slate"
+
+#: lib/Settings/AdminPage.php:134
+msgid "Settings"
+msgstr "Ajustes"
+
+#: lib/Settings/AdminPage.php:122
+msgid "Getting Started"
+msgstr "Primeros pasos"
+
+#: lib/Migration/Admin.php:65
+msgid "Migrate"
+msgstr "Migrar"
+
+#: lib/Migration/PostContent.php:98
+msgid "Invalid post ID"
+msgstr "ID de entrada incorrecto"
+
+#: lib/Migration/AdminNotice.php:109 lib/Migration/AdminNotice.php:116
+msgid "Migrate now"
+msgstr "Migrar ahora"
+
+#: lib/Migration/Admin.php:64
+msgid "Migrate to Genesis Blocks"
+msgstr "Migrar a Genesis Blocks"
+
+#: lib/Settings/AdminPage.php:121
+msgid "Getting Started with Genesis Blocks"
+msgstr "Empezando con Genesis Blocks"
+
+#: lib/Migration/Api.php:126
+msgid "Content migration failed"
+msgstr "Falló la migración del contenido"
+
+#: lib/Migration/Api.php:75
+msgid "Settings migration failed"
+msgstr "Falló la migración de la configuración"
+
+#: lib/Migration/AdminNotice.php:115
+msgid "Welcome to Genesis Blocks! Would you like to migrate your Atomic Blocks content to Genesis Blocks?"
+msgstr "¡Bienvenido a Genesis Blocks! ¿Deseas migrar tu contenido de Atomic Blocks a Genesis Blocks?"
+
+#: lib/Migration/Admin.php:125
+msgid "Migrate from Atomic Blocks to Genesis Blocks"
+msgstr "Migrar de Atomic Blocks a Genesis Blocks"
+
+#. Plugin Name of the plugin
+#: includes/load-scripts.php:112 lib/Migration/Admin.php:135
+#: lib/Settings/AdminPage.php:67 lib/Settings/views/admin/app.php:20
+msgid "Genesis Blocks"
+msgstr "Genesis Blocks"
+
+#: lib/Settings/views/admin/getting-started.php:79
+#: lib/Settings/views/admin/getting-started.php:82
+#: lib/Settings/views/admin/tabs/genesis-pro.php:21
+msgid "Genesis Pro"
+msgstr "Genesis Pro"
+
+#: src/blocks/block-author-profile/deprecated/1.8.2/filter.php:113
+#: src/blocks/block-author-profile/components/social.js:410
+#: src/blocks/block-author-profile/deprecated/1.8.2/components/social.js:206
+#: src/blocks/block-author-profile/deprecated/2.0.0/components/social.js:410
+msgid "WordPress"
+msgstr "WordPress"
+
+#: includes/layout/layout-functions.php:63
+msgid "You must supply a key to retrieve a layout component."
+msgstr "Debes facilitar una clave par recuperar un componente de diseño."
+
+#: includes/layout/layout-functions.php:59
+msgid "You must supply a type to retrieve a layout component."
+msgstr "Debes facilitar  un tipo para recuperar un componente de diseño."
+
+#. translators: The requested components unique key.
+#: includes/layout/class-component-registry.php:150
+#: includes/layout/class-component-registry.php:186
+msgid "The %s section is not registered."
+msgstr "La sección %s no está registrada."
+
+#. translators: The requested components unique key.
+#: includes/layout/class-component-registry.php:142
+#: includes/layout/class-component-registry.php:179
+msgid "The %s layout is not registered."
+msgstr "El diseño %s no está registrado."
+
+#. translators: %s: This function's name. Will always be
+#. Genesis\Blocks\Layouts\Component_Registry::add().
+#. translators: %s: This function's name. Will always be
+#. Genesis\Blocks\Layouts\Component_Registry::remove().
+#. translators: This function name. Will always be
+#. Genesis\Blocks\Layouts\Component_Registry::get().
+#: includes/layout/class-component-registry.php:111
+#: includes/layout/class-component-registry.php:128
+#: includes/layout/class-component-registry.php:192
+msgid "You must supply a valid component type in %s."
+msgstr "Debes facilitar un tipo de componente válido en %s."
+
+#. translators: %s: The component's unique key.
+#: includes/layout/class-component-registry.php:104
+msgid "The %s section is already registered."
+msgstr "La sección %s ya está registrada."
+
+#. translators: %s: The component's unique key.
+#: includes/layout/class-component-registry.php:96
+msgid "The %s layout is already registered."
+msgstr "El diseño %s ya está registrado."
+
+#. translators: %s: The missing key that is required to register a component.
+#: includes/layout/class-component-registry.php:88
+msgid "You must supply a %s to register a layout."
+msgstr "Debes facilitar un %s para registrar un diseño."
+
+#: includes/layout/class-component-registry.php:82
+msgid "You must supply valid layout data to register a layout."
+msgstr "Debes facilitar datos de un diseño válido para registrar un diseño."
+
+#: includes/layout/class-component-registry.php:78
+msgid "You must supply a valid component type."
+msgstr "Debes facilitar un tipo de componente válido."
+
+#: includes/patterns/gb_slate_layout_contact.php:20
+#: includes/patterns/gb_slate_layout_contact.php:23
+#: includes/patterns/gb_slate_section_accordion_and_text.php:86
+#: includes/patterns/gb_slate_section_call_to_action_accent.php:21
+#: includes/patterns/gb_slate_section_call_to_action_accent.php:28
+#: includes/patterns/gb_slate_section_contact_box.php:87
+#: includes/patterns/gb_slate_section_contact_box.php:92
+#: includes/patterns/gb_slate_section_contact_columns.php:83
+#: includes/patterns/gb_slate_section_contact_columns.php:90
+#: includes/patterns/gb_slate_section_content_boxes.php:51
+#: includes/patterns/gb_slate_section_content_boxes.php:57
+msgid "contact"
+msgstr "contacto"
+
+#: includes/layout/register-layout-components.php:191
+msgid "review"
+msgstr "reseña"
+
+#: includes/layout/register-layout-components.php:174
+#: includes/layout/register-layout-components.php:192
+msgid "user"
+msgstr "usuario"
+
+#: includes/layout/register-layout-components.php:173
+msgid "member"
+msgstr "miembro"
+
+#: includes/layout/register-layout-components.php:170
+#: includes/layout/register-layout-components.php:172
+#: includes/patterns/gb_slate_layout_about.php:20
+#: includes/patterns/gb_slate_layout_about.php:29
+#: includes/patterns/gb_slate_section_team_members.php:53
+msgid "team"
+msgstr "equipo"
+
+#: includes/layout/register-layout-components.php:154
+msgid "Text List and Image"
+msgstr "Lista de texto e imagen"
+
+#: includes/layout/register-layout-components.php:140
+#: includes/layout/register-layout-components.php:155
+#: includes/patterns/gb_slate_layout_about.php:23
+#: includes/patterns/gb_slate_section_feature_image_and_text_columns.php:70
+#: includes/patterns/gb_slate_section_image_and_text_cta.php:46
+#: includes/patterns/gb_slate_section_image_and_text_cta.php:52
+#: includes/patterns/gb_slate_section_media_and_text.php:37
+#: includes/patterns/gb_slate_section_media_and_text.php:42
+#: includes/patterns/gb_slate_section_testimonial_image.php:38
+msgid "media"
+msgstr "medios"
+
+#: includes/layout/register-layout-components.php:139
+msgid "Media / Text"
+msgstr "Medios / Texto"
+
+#: includes/layout/register-layout-components.php:124
+msgid "Services - Four Column"
+msgstr "Servicios - Cuatro columnas"
+
+#: includes/layout/register-layout-components.php:113
+#: includes/layout/register-layout-components.php:128
+#: includes/layout/register-layout-components.php:143
+#: includes/layout/register-layout-components.php:158
+msgid "text"
+msgstr "texto"
+
+#: includes/layout/register-layout-components.php:109
+msgid "Services - Three Column"
+msgstr "Servicios - Tres columnas"
+
+#: includes/layout/register-layout-components.php:98
+#: includes/patterns/gb_slate_section_hero_title.php:46
+#: includes/patterns/gb_slate_section_hero_with_buttons.php:56
+msgid "hero"
+msgstr "hero"
+
+#: includes/layout/register-layout-components.php:94
+msgid "Hero Header"
+msgstr "Cabecera hero"
+
+#: includes/layout/register-layout-components.php:83
+msgid "freelance"
+msgstr "autónomo"
+
+#: includes/layout/register-layout-components.php:76
+msgid "Freelancer"
+msgstr "Autónomo"
+
+#: includes/layout/register-layout-components.php:65
+#: includes/layout/register-layout-components.php:82
+#: includes/patterns/gb_slate_section_contact_columns.php:86
+#: includes/patterns/gb_slate_section_contact_columns.php:93
+#: includes/patterns/gb_slate_section_feature_image_and_text_columns.php:69
+#: includes/patterns/gb_slate_section_feature_image_and_text_columns.php:75
+#: includes/patterns/gb_slate_section_feature_text_columns.php:71
+#: includes/patterns/gb_slate_section_feature_text_columns.php:77
+#: includes/patterns/gb_slate_section_text_with_cta.php:37
+#: includes/patterns/gb_slate_section_text_with_cta.php:42
+msgid "portfolio"
+msgstr "porfolio"
+
+#: includes/layout/register-layout-components.php:110
+#: includes/layout/register-layout-components.php:112
+#: includes/layout/register-layout-components.php:125
+#: includes/layout/register-layout-components.php:127
+#: includes/layout/register-layout-components.php:142
+#: includes/layout/register-layout-components.php:157
+#: includes/patterns/gb_slate_layout_about.php:21
+#: includes/patterns/gb_slate_layout_features_and_services.php:26
+#: includes/patterns/gb_slate_layout_features_and_services.php:31
+#: includes/patterns/gb_slate_section_accordion_and_text.php:84
+#: includes/patterns/gb_slate_section_call_to_action_accent.php:20
+#: includes/patterns/gb_slate_section_call_to_action_accent.php:27
+#: includes/patterns/gb_slate_section_features.php:79
+#: includes/patterns/gb_slate_section_feature_image_and_text_columns.php:68
+#: includes/patterns/gb_slate_section_image_and_text_columns.php:67
+#: includes/patterns/gb_slate_section_image_and_text_cta.php:45
+#: includes/patterns/gb_slate_section_image_and_text_cta.php:51
+#: includes/patterns/gb_slate_section_numbered_list_and_image.php:45
+#: includes/patterns/gb_slate_section_team_members.php:51
+msgid "services"
+msgstr "servicios"
+
+#: includes/layout/register-layout-components.php:63
+#: includes/layout/register-layout-components.php:80
+msgid "personal"
+msgstr "personal"
+
+#: includes/layout/register-layout-components.php:62
+#: includes/layout/register-layout-components.php:79
+#: includes/patterns/gb_slate_layout_about.php:28
+msgid "about"
+msgstr "acerca de"
+
+#: includes/layout/register-layout-components.php:58
+msgid "Profile"
+msgstr "Perfil"
+
+#: includes/layout/register-layout-components.php:48
+msgid "newsletter"
+msgstr "boletín"
+
+#: includes/layout/register-layout-components.php:47
+msgid "email"
+msgstr "correo electrónico"
+
+#: includes/layout/register-layout-components.php:46
+msgid "marketing"
+msgstr "marketing"
+
+#: includes/layout/register-layout-components.php:42
+#: includes/layout/register-layout-components.php:45
+#: includes/layout/register-layout-components.php:60
+#: includes/layout/register-layout-components.php:77
+#: includes/patterns/gb_slate_layout_about.php:22
+#: includes/patterns/gb_slate_layout_about.php:27
+#: includes/patterns/gb_slate_layout_contact.php:19
+#: includes/patterns/gb_slate_layout_features_and_services.php:27
+#: includes/patterns/gb_slate_layout_features_and_services.php:32
+#: includes/patterns/gb_slate_layout_homepage.php:28
+#: includes/patterns/gb_slate_layout_homepage.php:34
+#: includes/patterns/gb_slate_layout_homepage_alternative.php:27
+#: includes/patterns/gb_slate_layout_homepage_alternative.php:33
+#: includes/patterns/gb_slate_section_accordion_and_text.php:85
+#: includes/patterns/gb_slate_section_accordion_and_text.php:90
+#: includes/patterns/gb_slate_section_contact_box.php:89
+#: includes/patterns/gb_slate_section_contact_box.php:94
+#: includes/patterns/gb_slate_section_contact_columns.php:85
+#: includes/patterns/gb_slate_section_contact_columns.php:92
+#: includes/patterns/gb_slate_section_features.php:80
+#: includes/patterns/gb_slate_section_features.php:85
+#: includes/patterns/gb_slate_section_feature_image_and_text_columns.php:74
+#: includes/patterns/gb_slate_section_feature_text_columns.php:70
+#: includes/patterns/gb_slate_section_feature_text_columns.php:76
+#: includes/patterns/gb_slate_section_hero_title.php:41
+#: includes/patterns/gb_slate_section_hero_title.php:47
+#: includes/patterns/gb_slate_section_hero_with_buttons.php:51
+#: includes/patterns/gb_slate_section_hero_with_buttons.php:57
+#: includes/patterns/gb_slate_section_image_and_text_columns.php:68
+#: includes/patterns/gb_slate_section_image_and_text_columns.php:73
+#: includes/patterns/gb_slate_section_image_and_text_cta.php:48
+#: includes/patterns/gb_slate_section_image_and_text_cta.php:54
+#: includes/patterns/gb_slate_section_media_and_text.php:39
+#: includes/patterns/gb_slate_section_media_and_text.php:44
+#: includes/patterns/gb_slate_section_numbered_list_and_image.php:46
+#: includes/patterns/gb_slate_section_numbered_list_and_image.php:51
+#: includes/patterns/gb_slate_section_team_members.php:58
+#: includes/patterns/gb_slate_section_testimonials.php:53
+#: includes/patterns/gb_slate_section_testimonials.php:58
+#: includes/patterns/gb_slate_section_testimonial_image.php:37
+#: includes/patterns/gb_slate_section_testimonial_image.php:43
+#: includes/patterns/gb_slate_section_text_with_cta.php:36
+#: includes/patterns/gb_slate_section_text_with_cta.php:41
+msgid "landing"
+msgstr "página de destino"
+
+#: includes/layout/register-layout-components.php:40
+msgid "Product Launch"
+msgstr "Lanzamiento de producto"
+
+#: includes/layout/register-layout-components.php:29
+msgid "service"
+msgstr "servicio"
+
+#: includes/layout/register-layout-components.php:24
+msgid "Business"
+msgstr "Negocio"
+
+#: includes/layout/layout-endpoints.php:137
+msgid "Layout not found."
+msgstr "Diseño no encontrado."
+
+#: includes/layout/register-layout-components.php:30
+#: includes/layout/register-layout-components.php:44
+#: includes/patterns/gb_slate_layout_features_and_services.php:28
+#: includes/patterns/gb_slate_layout_homepage.php:29
+#: includes/patterns/gb_slate_layout_homepage_alternative.php:28
+#: includes/patterns/gb_slate_section_call_to_action_accent.php:23
+#: includes/patterns/gb_slate_section_call_to_action_accent.php:30
+#: includes/patterns/gb_slate_section_content_boxes.php:53
+#: includes/patterns/gb_slate_section_content_boxes.php:59
+#: includes/patterns/gb_slate_section_features.php:78
+#: includes/patterns/gb_slate_section_features.php:84
+#: includes/patterns/gb_slate_section_image_and_text_columns.php:66
+#: includes/patterns/gb_slate_section_image_and_text_columns.php:72
+#: includes/patterns/gb_slate_section_numbered_list_and_image.php:44
+#: includes/patterns/gb_slate_section_numbered_list_and_image.php:50
+#: includes/patterns/gb_slate_section_team_members.php:57
+msgid "product"
+msgstr "producto"
+
+#: includes/layout/register-layout-components.php:26
+#: includes/layout/register-layout-components.php:28
+#: includes/patterns/gb_slate_layout_about.php:26
+#: includes/patterns/gb_slate_layout_features_and_services.php:25
+#: includes/patterns/gb_slate_layout_homepage.php:27
+#: includes/patterns/gb_slate_layout_homepage_alternative.php:26
+#: includes/patterns/gb_slate_section_accordion_and_text.php:83
+#: includes/patterns/gb_slate_section_accordion_and_text.php:89
+#: includes/patterns/gb_slate_section_call_to_action_accent.php:22
+#: includes/patterns/gb_slate_section_call_to_action_accent.php:29
+#: includes/patterns/gb_slate_section_contact_box.php:88
+#: includes/patterns/gb_slate_section_contact_box.php:93
+#: includes/patterns/gb_slate_section_contact_columns.php:84
+#: includes/patterns/gb_slate_section_contact_columns.php:91
+#: includes/patterns/gb_slate_section_content_boxes.php:52
+#: includes/patterns/gb_slate_section_content_boxes.php:58
+#: includes/patterns/gb_slate_section_features.php:77
+#: includes/patterns/gb_slate_section_features.php:83
+#: includes/patterns/gb_slate_section_feature_image_and_text_columns.php:67
+#: includes/patterns/gb_slate_section_feature_image_and_text_columns.php:73
+#: includes/patterns/gb_slate_section_feature_text_columns.php:69
+#: includes/patterns/gb_slate_section_feature_text_columns.php:75
+#: includes/patterns/gb_slate_section_hero_title.php:40
+#: includes/patterns/gb_slate_section_hero_title.php:44
+#: includes/patterns/gb_slate_section_hero_with_buttons.php:50
+#: includes/patterns/gb_slate_section_hero_with_buttons.php:54
+#: includes/patterns/gb_slate_section_image_and_text_columns.php:65
+#: includes/patterns/gb_slate_section_image_and_text_columns.php:71
+#: includes/patterns/gb_slate_section_image_and_text_cta.php:47
+#: includes/patterns/gb_slate_section_image_and_text_cta.php:53
+#: includes/patterns/gb_slate_section_media_and_text.php:38
+#: includes/patterns/gb_slate_section_media_and_text.php:43
+#: includes/patterns/gb_slate_section_numbered_list_and_image.php:43
+#: includes/patterns/gb_slate_section_numbered_list_and_image.php:49
+#: includes/patterns/gb_slate_section_team_members.php:52
+#: includes/patterns/gb_slate_section_team_members.php:56
+#: includes/patterns/gb_slate_section_testimonials.php:52
+#: includes/patterns/gb_slate_section_testimonials.php:57
+#: includes/patterns/gb_slate_section_testimonial_image.php:36
+#: includes/patterns/gb_slate_section_testimonial_image.php:42
+#: includes/patterns/gb_slate_section_text_with_cta.php:35
+#: includes/patterns/gb_slate_section_text_with_cta.php:40
+msgid "business"
+msgstr "negocio"
+
+#: includes/patterns/gb_slate_layout_homepage_alternative.php:34
+#: src/blocks/block-column-inner/index.js:32
+#: src/blocks/block-layout/index.js:31
+msgid "layout"
+msgstr "diseño"
+
+#: includes/patterns/gb_slate_section_feature_image_and_text_columns.php:76
+#: src/blocks/block-column-inner/index.js:31
+#: src/blocks/block-column/index.js:27 src/blocks/block-layout/index.js:32
+msgid "column"
+msgstr "columna"
+
+#: src/blocks/block-newsletter/index.php:296
+msgid "Mailchimp API Key"
+msgstr "Clave API de Mailchimp"
+
+#: src/blocks/block-newsletter/includes/newsletter-functions.php:245
+msgid "The submission failed."
+msgstr "El envío falló."
+
+#: src/blocks/block-newsletter/includes/newsletter-functions.php:244
+msgid "The submission successfully succeeded."
+msgstr "El envío se realizó correctamente."
+
+#: src/blocks/block-newsletter/includes/newsletter-functions.php:243
+msgid "The submission is being processed."
+msgstr "El envío se está procesando."
+
+#: src/blocks/block-newsletter/includes/newsletter-functions.php:241
+msgid "Invalid configuration. Site owner: Please configure your newsletter provider settings."
+msgstr "Configuración no válida. Propietario del sitio: Por favor, configura los ajustes del proveedor de boletín."
+
+#: src/blocks/block-newsletter/includes/newsletter-functions.php:136
+msgid "You must enter your email API key in the plugin settings page."
+msgstr "Debes introducir la clave de API del correo electrónico en la página de ajustes del plugin."
+
+#: src/blocks/block-newsletter/includes/newsletter-functions.php:135
+msgid "Invalid list ID."
+msgstr "ID de lista no válido."
+
+#: src/blocks/block-newsletter/includes/newsletter-functions.php:134
+msgid "Invalid email address."
+msgstr "Dirección de correo electrónico no valida."
+
+#: src/blocks/block-newsletter/includes/newsletter-functions.php:133
+msgid "Invalid newsletter provider."
+msgstr "Proveedor de boletines no válido."
+
+#: src/blocks/block-newsletter/includes/newsletter-functions.php:47
+msgid "Please provide a valid email address."
+msgstr "Por favor, escribe una dirección de correo electrónico válida."
+
+#: src/blocks/block-newsletter/includes/newsletter-functions.php:36
+msgid "You must provide an email address."
+msgstr "Debes facilitar una dirección de correo electrónico."
+
+#: src/blocks/block-newsletter/includes/newsletter-functions.php:32
+msgid "Invalid mailing provider configuration."
+msgstr "Configuración del proveedor de correo no válida."
+
+#: src/blocks/block-newsletter/includes/newsletter-functions.php:28
+msgid "Nonce verification failed. Please try again."
+msgstr "Error en la verificación nonce. Por favor, inténtalo de nuevo."
+
+#. translators: %s The error message returns from the Mailchimp API.
+#: src/blocks/block-newsletter/includes/classes/class-mailchimp.php:105
+msgid "There was an error subscribing your email address. Please try again. Error: %s"
+msgstr "Se ha producido un error al suscribir tu dirección de correo electrónico. Por favor, inténtalo de nuevo. Error: %s"
+
+#. translators: %s The PHP method name. Will be
+#. Genesis\Blocks\Newsletter\Mailchimp\subscribe.
+#: src/blocks/block-newsletter/includes/classes/class-mailchimp.php:88
+msgid "An invalid Mailchimp list ID was provided in %s"
+msgstr "Se proporcionó un ID de lista de Mailchimp no válida en %s"
+
+#: src/blocks/block-newsletter/includes/classes/class-mailchimp.php:78
+msgid "An invalid email address was provided."
+msgstr "Se proporcionó una dirección de correo electrónico no válida."
+
+#. translators: %s This PHP class name. Will print
+#. Genesis\Blocks\Newsletter\Mailchimp
+#: src/blocks/block-newsletter/includes/classes/class-mailchimp.php:40
+msgid "An API key is required to use %s."
+msgstr "Se requiere una clave API para utilizar %s."
+
+#: src/blocks/block-newsletter/index.php:206
+msgid "Thanks for subscribing."
+msgstr "Gracias por suscribirte."
+
+#: src/blocks/block-newsletter/index.php:195
+msgid "Your Email Address"
+msgstr "Tu dirección de correo electrónico"
+
+#: src/blocks/block-newsletter/index.php:191
+msgid "Please wait..."
+msgstr "Por favor, espera..."
+
+#: src/blocks/block-newsletter/index.php:181
+#: src/blocks/block-newsletter/index.js:24
+msgid "Subscribe"
+msgstr "Suscribirse"
+
+#: includes/layout/register-layout-components.php:95
+#: includes/layout/register-layout-components.php:97
+#: includes/patterns/gb_slate_section_call_to_action_accent.php:19
+#: includes/patterns/gb_slate_section_call_to_action_accent.php:26
+#: includes/patterns/gb_slate_section_hero_title.php:39
+#: includes/patterns/gb_slate_section_hero_title.php:45
+#: includes/patterns/gb_slate_section_hero_with_buttons.php:49
+#: includes/patterns/gb_slate_section_hero_with_buttons.php:55
+#: src/blocks/block-post-grid/components/inspector.js:297
+msgid "header"
+msgstr "cabecera"
+
+#: includes/patterns/gb_slate_section_hero_title.php:48
+#: src/blocks/block-pricing-table-inner/components/title/index.js:33
+msgid "title"
+msgstr "título"
+
+#: includes/patterns/gb_slate_layout_features_and_services.php:33
+#: includes/patterns/gb_slate_section_features.php:88
+#: includes/patterns/gb_slate_section_image_and_text_columns.php:75
+#: includes/patterns/gb_slate_section_numbered_list_and_image.php:55
+#: src/blocks/block-pricing-table-inner/components/description/index.js:25
+msgid "features"
+msgstr "características"
+
+#: src/blocks/block-author-profile/deprecated/1.8.2/filter.php:107
+#: src/blocks/block-author-profile/components/social.js:324
+#: src/blocks/block-author-profile/deprecated/1.8.2/components/social.js:166
+#: src/blocks/block-author-profile/deprecated/2.0.0/components/social.js:324
+#: src/blocks/block-sharing/components/inspector.js:122
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: includes/patterns/gb_slate_section_contact_box.php:96
+#: src/blocks/block-sharing/index.js:27
+msgid "social"
+msgstr "social"
+
+#: includes/layout/register-layout-components.php:187
+#: includes/layout/register-layout-components.php:189
+#: includes/patterns/gb_slate_layout_features_and_services.php:34
+#: includes/patterns/gb_slate_section_testimonials.php:51
+#: includes/patterns/gb_slate_section_testimonials.php:56
+#: includes/patterns/gb_slate_section_testimonial_image.php:35
+#: includes/patterns/gb_slate_section_testimonial_image.php:41
+#: src/blocks/block-testimonial/index.js:29
+msgid "testimonial"
+msgstr "testimonio"
+
+#: includes/layout/register-layout-components.php:190
+#: src/blocks/block-drop-cap/index.js:80
+#: src/blocks/block-testimonial/index.js:30
+msgid "quote"
+msgstr "cita"
+
+#: src/blocks/block-author-profile/deprecated/1.8.2/filter.php:119
+#: src/blocks/block-author-profile/deprecated/1.8.2/filter.php:121
+#: src/blocks/block-author-profile/components/social.js:455
+#: src/blocks/block-author-profile/components/social.js:471
+#: src/blocks/block-author-profile/deprecated/1.8.2/components/social.js:226
+#: src/blocks/block-author-profile/deprecated/2.0.0/components/social.js:455
+#: src/blocks/block-author-profile/deprecated/2.0.0/components/social.js:471
+#: src/blocks/block-sharing/components/edit.js:255
+#: src/blocks/block-sharing/components/inspector.js:140
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: src/blocks/block-author-profile/deprecated/1.8.2/filter.php:101
+#: src/blocks/block-author-profile/components/social.js:369
+#: src/blocks/block-author-profile/deprecated/1.8.2/components/social.js:186
+#: src/blocks/block-author-profile/deprecated/2.0.0/components/social.js:369
+msgid "Github"
+msgstr "GitHub"
+
+#: src/blocks/block-author-profile/deprecated/1.8.2/filter.php:95
+#: src/blocks/block-author-profile/components/social.js:283
+#: src/blocks/block-author-profile/deprecated/1.8.2/components/social.js:146
+#: src/blocks/block-author-profile/deprecated/2.0.0/components/social.js:283
+msgid "YouTube"
+msgstr "YouTube"
+
+#: src/blocks/block-author-profile/deprecated/1.8.2/filter.php:89
+#: src/blocks/block-author-profile/components/social.js:242
+#: src/blocks/block-author-profile/deprecated/1.8.2/components/social.js:126
+#: src/blocks/block-author-profile/deprecated/2.0.0/components/social.js:242
+msgid "Google"
+msgstr "Google"
+
+#: src/blocks/block-author-profile/deprecated/1.8.2/filter.php:83
+#: src/blocks/block-author-profile/components/social.js:197
+#: src/blocks/block-author-profile/deprecated/1.8.2/components/social.js:106
+#: src/blocks/block-author-profile/deprecated/2.0.0/components/social.js:197
+#: src/blocks/block-sharing/components/inspector.js:112
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: src/blocks/block-author-profile/deprecated/1.8.2/filter.php:77
+#: src/blocks/block-author-profile/components/social.js:152
+#: src/blocks/block-author-profile/deprecated/1.8.2/components/social.js:86
+#: src/blocks/block-author-profile/deprecated/2.0.0/components/social.js:152
+msgid "Instagram"
+msgstr "Instagram"
+
+#: src/blocks/block-author-profile/deprecated/1.8.2/filter.php:71
+#: src/blocks/block-author-profile/components/social.js:107
+#: src/blocks/block-author-profile/deprecated/1.8.2/components/social.js:66
+#: src/blocks/block-author-profile/deprecated/2.0.0/components/social.js:107
+#: src/blocks/block-sharing/components/inspector.js:103
+msgid "Facebook"
+msgstr "Facebook"
+
+#: src/blocks/block-author-profile/deprecated/1.8.2/filter.php:59
+#: src/blocks/block-author-profile/components/social.js:25
+#: src/blocks/block-author-profile/deprecated/1.8.2/components/social.js:26
+#: src/blocks/block-author-profile/deprecated/2.0.0/components/social.js:25
+msgid "Website"
+msgstr "Web"
+
+#: includes/layout/register-layout-components.php:64
+#: includes/layout/register-layout-components.php:81
+#: src/blocks/block-author-profile/index.js:127
+msgid "profile"
+msgstr "perfil"
+
+#: includes/layout/register-layout-components.php:175
+#: src/blocks/block-author-profile/index.js:126
+msgid "author"
+msgstr "autor"
+
+#: includes/patterns/gb_slate_section_call_to_action_accent.php:31
+#: includes/patterns/gb_slate_section_contact_columns.php:95
+#: includes/patterns/gb_slate_section_content_boxes.php:60
+#: includes/patterns/gb_slate_section_features.php:86
+#: includes/patterns/gb_slate_section_hero_with_buttons.php:58
+#: includes/patterns/gb_slate_section_image_and_text_cta.php:55
+#: includes/patterns/gb_slate_section_media_and_text.php:45
+#: includes/patterns/gb_slate_section_team_members.php:59
+#: includes/patterns/gb_slate_section_text_with_cta.php:43
+#: dist/blocks.build.js:1 src/blocks/block-button/index.js:53
+msgid "button"
+msgstr "botón"
+
+#: includes/patterns/gb_slate_section_numbered_list_and_image.php:52
+#: src/blocks/block-accordion/index.js:51
+msgid "list"
+msgstr "lista"
+
+#: includes/patterns/gb_slate_layout_contact.php:24
+#: includes/patterns/gb_slate_section_accordion_and_text.php:91
+#: src/blocks/block-accordion/index.js:50
+msgid "accordion"
+msgstr "acordeón"
+
+#: src/blocks/block-author-profile/deprecated/1.8.2/filter.php:65
+#: src/blocks/block-author-profile/components/social.js:66
+#: src/blocks/block-author-profile/deprecated/1.8.2/components/social.js:46
+#: src/blocks/block-author-profile/deprecated/2.0.0/components/social.js:66
+#: src/blocks/block-sharing/components/inspector.js:94
+msgid "Twitter"
+msgstr "Twitter"
+
+#: src/blocks/block-post-grid/index.php:132
+msgid "Untitled"
+msgstr "Sin título"
+
+#: src/blocks/block-sharing/index.php:262
+#: src/blocks/block-sharing/index.php:263
+#: src/blocks/block-sharing/components/edit.js:263
+msgid "Share via Email"
+msgstr "Compartir por correo electrónico"
+
+#: src/blocks/block-sharing/index.php:229
+#: src/blocks/block-sharing/index.php:245
+#: src/blocks/block-sharing/index.php:246
+#: src/blocks/block-sharing/components/edit.js:218
+msgid "Share on Reddit"
+msgstr "Compartir en Reddit"
+
+#: src/blocks/block-sharing/index.php:206
+#: src/blocks/block-sharing/index.php:222
+#: src/blocks/block-sharing/index.php:223
+#: src/blocks/block-sharing/components/edit.js:192
+msgid "Share on LinkedIn"
+msgstr "Compartir en LinkedIn"
+
+#: src/blocks/block-sharing/index.php:183
+#: src/blocks/block-sharing/index.php:199
+#: src/blocks/block-sharing/index.php:200
+#: src/blocks/block-sharing/components/edit.js:154
+msgid "Share on Pinterest"
+msgstr "Compartir en Pinterest"
+
+#: src/blocks/block-sharing/index.php:160
+#: src/blocks/block-sharing/index.php:176
+#: src/blocks/block-sharing/index.php:177
+#: src/blocks/block-sharing/components/edit.js:116
+msgid "Share on Facebook"
+msgstr "Compartir en Facebook"
+
+#: src/blocks/block-sharing/index.php:137
+#: src/blocks/block-sharing/index.php:153
+#: src/blocks/block-sharing/index.php:154
+#: src/blocks/block-sharing/components/edit.js:78
+msgid "Share on Twitter"
+msgstr "Compartir en Twitter"
+
+#: includes/layout/register-layout-components.php:186
+msgid "Testimonials"
+msgstr "Testimonios"
+
+#: includes/layout/register-layout-components.php:169
+msgid "Team Members"
+msgstr "Miembros del equipo"
+
+#: lib/Settings/AdminPage.php:133
+msgid "Genesis Blocks Settings"
+msgstr "Ajustes Genesis Blocks"
+
+#. Author URI of the plugin
+msgid "https://www.studiopress.com/"
+msgstr "https://www.studiopress.com/"
+
+#. Author of the plugin
+msgid "StudioPress"
+msgstr "StudioPress"
+
+#. Plugin URI of the plugin
+msgid "https://studiopress.com/genesis-pro/"
+msgstr "https://studiopress.com/genesis-pro/"
+
+#. Description of the plugin
+msgid "A beautiful collection of handy blocks to help you get started with the new WordPress editor."
+msgstr "Una hermosa colección de bloques prácticos para ayudarle a comenzar con el nuevo editor de WordPress."
+
+#. translators: This function name. Will always be
+#. Genesis\Blocks\Layouts\Component_Registry::get().
+#: includes/layout/class-component-registry.php:172
+msgid "You must supply a component type in %s."
+msgstr "Debes facilitar un tipo de componente en %s."
+
+#. translators: %s: This function's name. Will always be
+#. Genesis\Blocks\Layouts\Component_Registry::remove().
+#: includes/layout/class-component-registry.php:133
+msgid "You must supply a valid component key in %s."
+msgstr "Debes facilitar una clave válida del componente en %s."
+
+#: lib/Settings/views/admin/tabs/genesis-pro.php:60
+msgid "Industry-leading support"
+msgstr "Soporte líder en la industria"
+
+#: lib/Settings/views/admin/tabs/genesis-pro.php:43
+msgid "Sections and Layouts"
+msgstr "Secciones y Estructuras"
+
+#: src/blocks/block-newsletter/index.php:301
+msgid "Your Mailchimp API key is required for the Newsletter block to communicate with your Mailchimp account."
+msgstr "Se necesita su clave API de Mailchimp para que el bloque de boletines se comunique con su cuenta de Mailchimp."
+
+#: src/blocks/block-newsletter/index.php:275
+msgid "Newsletter Block"
+msgstr "Bloque de Boletín de Noticias"
+
+#: lib/Settings/views/admin/getting-started.php:74
+#: lib/Settings/views/admin/tabs/genesis-collections.php:21
+#: src/blocks/block-layout/components/layout/layout-modal.js:27
+msgid "Collections"
+msgstr "Colecciones"
+
+#: lib/Settings/views/admin/tabs/genesis-pro.php:61
+msgid "A Genesis Pro subscription gives you access to the incredible Customer Experience teams that have been the foundation of WP Engine and StudioPress. You will be able to build with confidence, knowing that you have extensive documentation and 24/7 support available."
+msgstr "Una suscripción a Genesis Pro te da acceso a los increíbles equipos de soporte que han sido la base de la experiencia del cliente de WP Engine y de StudioPress. Podrás construir con confianza sabiendo que tienes una documentación extensa y un soporte disponible 24/7."
+
+#: lib/Settings/views/admin/tabs/genesis-pro.php:55
+msgid "Block-based access controls"
+msgstr "Controles de accesos por bloque"
+
+#: lib/Settings/views/admin/tabs/genesis-pro.php:44
+msgid "Genesis Pro provides you with a growing collection of page-building section and layout designs. Mix and match from over 70 pre-made designs to create beautiful pages in seconds. There are plenty of designs to choose from in the ever-growing collection."
+msgstr "Genesis Pro te provee con una colección creciente de secciones de construcción de páginas y diseños de disposiciones. Escoge entre más de 70 diseños pre-hechos para crear bonitas páginas en segundos. Hay muchos diseños para escoger de la siempre creciente colección."
+
+#: lib/Settings/views/admin/tabs/genesis-pro.php:56
+msgid "Genesis Pro provides you the option to control which user roles have access to the settings of individual blocks. This is useful if you have specific brand styles (font styles, colors, etc.) and you don’t want to allow editors, authors, and/or contributors to change any branded elements."
+msgstr "Génesis Pro te ofrece la opción de controlar qué roles de usuario tienen acceso a la configuración de bloques individuales. Esto es útil si tienes estilos de marca específicos (estilos de fuente, colores, etc.) y no quieres permitir que los editores, autores y/o colaboradores cambien ningún elemento de marca."

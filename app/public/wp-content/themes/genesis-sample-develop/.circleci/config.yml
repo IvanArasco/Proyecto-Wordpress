@@ -1,0 +1,278 @@
+version: 2.1
+
+orbs:
+  wp-product-orb: wpengine/wp-product-orb@1.3.0
+
+executors:
+  base:
+    docker:
+      - image: circleci/buildpack-deps:latest
+    working_directory: /tmp
+  php_node:
+    docker:
+      - image: circleci/php:7.3.3-stretch-node-browsers
+    working_directory: /tmp/theme
+
+jobs:
+  checkout:
+    executor: wp-product-orb/python
+    environment:
+      WPE_SESSION_DIR: /tmp/.wpe
+    working_directory: /tmp
+    steps:
+      - checkout:
+          path: theme
+      - wp-product-orb/get-version-from-theme-json:
+          filename: theme/package.json
+          return_var: THEME_VERSION
+      - wp-product-orb/variable:
+          value: $THEME_VERSION
+          var: THEME_VERSION
+      - wp-product-orb/get-slug-from-theme-json:
+          filename: theme/package.json
+          return_var: THEME_SLUG
+      - wp-product-orb/variable:
+          value: $THEME_SLUG
+          var: THEME_SLUG
+      - wp-product-orb/variable:
+          value: $THEME_SLUG
+          var: THEME_TEXT_DOMAIN
+      - wp-product-orb/variable:
+          value: ${THEME_SLUG}.${THEME_VERSION}.zip
+          var: VERSION_ARTIFACT_FILE
+      - wp-product-orb/variable:
+          value: ${THEME_SLUG}.${THEME_VERSION}.json
+          var: VERSION_DATA_FILE
+      - persist_to_workspace:
+          root: /tmp
+          paths:
+            - theme
+            - .wpe
+
+  standards:
+    executor: php_node
+    steps:
+      - attach_workspace:
+          at: /tmp
+      - run: composer install
+      - run: npm ci
+      - run: composer phpcs
+      - run: npm run lint:css
+      - run: npm run lint:js
+
+  bundle:
+    executor: php_node
+    environment:
+      WPE_SESSION_DIR: /tmp/.wpe
+    steps:
+      - attach_workspace:
+          at: /tmp
+      - wp-product-orb/variable-load
+      - run: npm ci
+      - run: npm run zip
+      - run:
+          command: |
+            [ ! -d "/tmp/artifacts" ] && mkdir /tmp/artifacts &>/dev/null
+      - run: mv ${VERSION_ARTIFACT_FILE} /tmp/artifacts/
+      - persist_to_workspace:
+          root: /tmp
+          paths:
+            - artifacts
+            - theme
+      - store_artifacts:
+          path: /tmp/artifacts/
+
+  create_data_file:
+    executor: php_node
+    environment:
+      WPE_SESSION_DIR: /tmp/.wpe
+    steps:
+      - attach_workspace:
+          at: /tmp
+      - wp-product-orb/variable-load
+      - run: npm run prep:piservice /tmp/artifacts --verbose
+      - persist_to_workspace:
+          root: /tmp
+          paths:
+            - artifacts
+      - store_artifacts:
+          path: /tmp/artifacts/
+
+  deploy_studiopress:
+    executor: base
+    environment:
+      WPE_SESSION_DIR: /tmp/.wpe
+    parameters:
+      sp_install:
+        type: string
+        default: myspressstg
+    steps:
+      - attach_workspace:
+          at: /tmp
+      - wp-product-orb/variable-load
+      - run:
+          name: Deploy To StudioPress
+          command: |
+            DEST_PATH=home/wpe-user/sites/<< parameters.sp_install >>/wp-content/uploads/member-access
+            DEST_HOST=<< parameters.sp_install >>@<< parameters.sp_install >>.ssh.wpengine.net
+            echo "${SP_DEPLOY_KEY}" | base64 -d > ./sp_deploy_key
+            chmod 600 ./sp_deploy_key
+            scp -i ./sp_deploy_key -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null /tmp/artifacts/${VERSION_ARTIFACT_FILE} ${DEST_HOST}:/${DEST_PATH}
+
+  deploy_api:
+    executor: wp-product-orb/authenticate
+    environment:
+      WPE_SESSION_DIR: /tmp/.wpe
+    parameters:
+      auth_url:
+        type: string
+      upload_url:
+        type: string
+    steps:
+      - attach_workspace:
+          at: /tmp
+      - wp-product-orb/variable-load
+      - wp-product-orb/authenticate:
+          user: WPE_LDAP_USER
+          pass: WPE_LDAP_PASS
+          url: << parameters.auth_url >>
+      - wp-product-orb/post-zip:
+          url: << parameters.upload_url >>/${THEME_SLUG}
+          zip: /tmp/artifacts/${VERSION_ARTIFACT_FILE}
+          json: /tmp/artifacts/${VERSION_DATA_FILE}
+          version: $THEME_VERSION
+
+workflows:
+  version: 2
+  checks:
+    jobs:
+      - checkout:
+          filters:
+            branches:
+              ignore:
+                - master
+      - standards:
+          requires:
+            - checkout
+          filters:
+            branches:
+              ignore:
+                - master
+      - bundle:
+          requires:
+            - standards
+          filters:
+            branches:
+              ignore:
+                - master
+      - create_data_file:
+          requires:
+            - bundle
+          filters:
+            branches:
+              ignore:
+                - master
+
+  branch_deploy:
+    jobs:
+      - checkout:
+          filters:
+            branches:
+              only:
+                - master
+      - standards:
+          requires:
+            - checkout
+          filters:
+            branches:
+              only:
+                - master
+      - bundle:
+          requires:
+            - standards
+          filters:
+            branches:
+              only:
+                - master
+      - create_data_file:
+          requires:
+            - bundle
+          filters:
+            branches:
+              only:
+                - master
+      - deploy_studiopress:
+          context: studiopress-deploy
+          sp_install: myspressstg
+          requires:
+            - bundle
+          filters:
+            branches:
+              only:
+                - master
+      - deploy_api:
+          context: wpe-ldap-creds
+          auth_url: https://auth-staging.wpengine.io/v1/tokens
+          upload_url: https://wp-product-info-staging.wpesvc.net/v1/themes
+          requires:
+            - create_data_file
+            - deploy_studiopress
+          filters:
+            branches:
+              only:
+                - master
+
+  tag_deploy:
+    jobs:
+      - checkout:
+          filters:
+            tags:
+              only: /^\d+\.\d+\.\d+$/
+            branches:
+              ignore: /.*/
+      - standards:
+          requires:
+            - checkout
+          filters:
+            tags:
+              only: /^\d+\.\d+\.\d+$/
+            branches:
+              ignore: /.*/
+      - bundle:
+          requires:
+            - standards
+          filters:
+            tags:
+              only: /^\d+\.\d+\.\d+$/
+            branches:
+              ignore: /.*/
+      - create_data_file:
+          requires:
+            - bundle
+          filters:
+            tags:
+              only: /^\d+\.\d+\.\d+$/
+            branches:
+              ignore: /.*/
+      - deploy_studiopress:
+          context: studiopress-deploy
+          sp_install: myspress
+          requires:
+            - bundle
+          filters:
+            tags:
+              only: /^\d+\.\d+\.\d+$/
+            branches:
+              ignore: /.*/
+      - deploy_api:
+          context: wpe-ldap-creds
+          auth_url: https://auth.wpengine.io/v1/tokens
+          upload_url: https://wp-product-info.wpesvc.net/v1/themes
+          requires:
+            - create_data_file
+            - deploy_studiopress
+          filters:
+            tags:
+              only: /^\d+\.\d+\.\d+$/
+            branches:
+              ignore: /.*/
