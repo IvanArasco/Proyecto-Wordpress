@@ -1,1 +1,76 @@
 [11-Mar-2024 15:51:25 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[11-Mar-2024 16:11:34 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:11:34 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:11:35 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:11:35 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:11:35 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:11:35 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:11:36 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:11:36 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:11:36 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:11:36 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:11:37 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:11:37 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:11:37 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:11:37 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:11:37 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:11:37 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:11:37 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:11:37 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:11:38 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:11:38 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:11:38 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:11:38 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9003 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:11:38 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:11:38 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:11:38 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:11:39 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:11:39 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:11:39 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9003 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:11:39 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:11:39 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:11:39 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:11:39 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:11:40 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:11:40 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9003 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:11:40 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:11:40 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9003 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:11:41 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:11:41 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:11:42 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:11:42 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:11:43 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:11:43 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:11:43 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:11:43 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:11:43 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:11:43 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:11:44 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:11:44 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:11:44 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:11:44 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:11:45 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:11:45 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:11:45 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:11:45 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:11:45 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:11:45 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:11:46 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:11:46 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:11:46 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:11:46 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:11:47 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:11:47 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:12:06 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9003 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:12:07 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9003 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:12:07 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9003 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:12:08 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9003 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:12:09 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9003 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:12:09 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9003 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:12:10 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9003 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:12:11 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9003 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:12:11 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9003 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:12:12 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:12:12 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:12:13 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Mar-2024 16:12:13 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(

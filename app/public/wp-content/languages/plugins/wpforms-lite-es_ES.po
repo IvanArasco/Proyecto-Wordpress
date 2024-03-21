@@ -2,12 +2,12 @@
 # This file is distributed under the same license as the Plugins - Contact Form by WPForms &#8211; Drag &amp; Drop Form Builder for WordPress - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-02-29 17:41:30+0000\n"
+"PO-Revision-Date: 2024-03-21 11:23:56+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: GlotPress/4.0.0-beta.3\n"
+"X-Generator: GlotPress/4.0.0\n"
 "Language: es\n"
 "Project-Id-Version: Plugins - Contact Form by WPForms &#8211; Drag &amp; Drop Form Builder for WordPress - Stable (latest release)\n"
 
@@ -2301,7 +2301,7 @@ msgstr "Rublo ruso"
 
 #: includes/functions/payments.php:147
 msgid "Polish Zloty"
-msgstr "Zloty polaco"
+msgstr "Esloti polaco"
 
 #: includes/functions/payments.php:139
 msgid "Philippine Peso"
@@ -2325,7 +2325,7 @@ msgstr "Ringgit Malayo"
 
 #: includes/functions/payments.php:99
 msgid "Israeli New Sheqel"
-msgstr "Shequel Israelí"
+msgstr "Nuevo séquel israelí"
 
 #: includes/functions/payments.php:91
 msgid "Hungarian Forint"

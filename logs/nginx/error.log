@@ -1,0 +1,2 @@
+2024/03/11 17:12:11 [error] 14316#13392: *7 WSARecv() failed (10054: FormatMessage() error:(15100)) while reading response header from upstream, client: 127.0.0.1, server: , request: "GET /wp-admin/ HTTP/1.0", upstream: "fastcgi://127.0.0.1:10003", host: "prueba-wordpress.local"
+2024/03/21 19:29:38 [alert] 15704#20316: OpenEvent("ngx_master_18884") failed (2: FormatMessage() error:(15100))
